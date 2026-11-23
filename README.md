@@ -13,6 +13,6 @@ Bridging Legacy Technology with Agentic AI — Exploring New Possibilities, Unlo
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Riya6395&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Riya6395&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=hemupadhyay26)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
